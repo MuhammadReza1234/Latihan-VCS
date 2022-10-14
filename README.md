@@ -38,7 +38,15 @@ Kelas: TI.22.A3
 
 <img width="388" alt="Cuplikan layar 2022-10-14 110241" src="https://user-images.githubusercontent.com/115516607/195775617-575eb883-a03f-4604-939f-4272d7cd6de9.png">
 
-9. 
+9. kemudian buatlah repository baru dengan masuk ke browser (disini saya gunakan chrome) lalu ketik github.com lalu klik + di pojok kanan atas dan pilih New repository
+
+<img width="929" alt="Cuplikan layar 2022-10-14 132022" src="https://user-images.githubusercontent.com/115516607/195777660-55f45000-2a30-45aa-9b7e-197f84f10ae6.png">
+
+10. lalu buat repository baru dengan nama sesuai keinginan kalian
+
+<img width="468" alt="Cuplikan layar 2022-10-14 111036" src="https://user-images.githubusercontent.com/115516607/195777846-0537a54d-2859-411d-9ab0-a0e59011f825.png">
+
+11. 
 
 
 
