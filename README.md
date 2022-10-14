@@ -54,7 +54,11 @@ Kelas: TI.22.A3
 
 <img width="686" alt="Cuplikan layar 2022-10-14 150854" src="https://user-images.githubusercontent.com/115516607/195796312-662cb33f-3d4d-44fd-9f04-7efce30d9430.png">
 
-13. 
+13. gunakan command "git clone" untuk mencopy repository server
+
+<img width="394" alt="Cuplikan layar 2022-10-14 151207" src="https://user-images.githubusercontent.com/115516607/195796957-d66edf84-9f75-4a12-875d-4bede5e8e78d.png">
+
+SEKIAN TERIMA KASIH
 
 
 
