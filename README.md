@@ -46,7 +46,11 @@ Kelas: TI.22.A3
 
 <img width="468" alt="Cuplikan layar 2022-10-14 111036" src="https://user-images.githubusercontent.com/115516607/195777846-0537a54d-2859-411d-9ab0-a0e59011f825.png">
 
-11. 
+11. gunakan command "git remote add origin [url]" dan gunakan command "git push -u origin master" untuk upload ke githubnya
+
+<img width="413" alt="Cuplikan layar 2022-10-14 134119" src="https://user-images.githubusercontent.com/115516607/195794543-ca582592-97ea-4d07-803e-71443aa01b04.png">
+
+12. 
 
 
 
