@@ -44,15 +44,17 @@ Kelas: TI.22.A3
 
 10. lalu buat repository baru dengan nama sesuai keinginan kalian
 
-<img width="468" alt="Cuplikan layar 2022-10-14 111036" src="https://user-images.githubusercontent.com/115516607/195777846-0537a54d-2859-411d-9ab0-a0e59011f825.png">
+<img width="537" alt="Cuplikan layar 2022-10-14 150431" src="https://user-images.githubusercontent.com/115516607/195795465-213c32cd-01c1-44c2-8f32-4870e078045d.png">
 
 11. gunakan command "git remote add origin [url]" dan gunakan command "git push -u origin master" untuk upload ke githubnya
 
 <img width="413" alt="Cuplikan layar 2022-10-14 134119" src="https://user-images.githubusercontent.com/115516607/195794543-ca582592-97ea-4d07-803e-71443aa01b04.png">
 
-12. 
+12. maka akan terjadi perubahan
 
+<img width="686" alt="Cuplikan layar 2022-10-14 150854" src="https://user-images.githubusercontent.com/115516607/195796312-662cb33f-3d4d-44fd-9f04-7efce30d9430.png">
 
+13. 
 
 
 
