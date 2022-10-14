@@ -19,3 +19,9 @@ Kelas: TI.22.A3
 <img width="298" alt="Cuplikan layar 2022-10-14 104458" src="https://user-images.githubusercontent.com/115516607/195763658-ead059e0-a299-448a-8bf3-c6e8d9d78a77.png">
 
 4. lalu ketik command "git init", untuk membuat repository lokal, lalu buat file contohnya "README.md"
+
+<img width="425" alt="Cuplikan layar 2022-10-14 104743" src="https://user-images.githubusercontent.com/115516607/195770435-7304d5ec-a341-4111-b2c8-31a5c4f96c11.png">
+
+5. kita bisa menambahkan file dengan menggunakan command "git add", 
+kemudian gunakan "git commit -m "komentar commit" 
+
